@@ -6,7 +6,7 @@
 &lt;li>HTML&lt;/li>
 &lt;li>CSS&lt;/li>
 &lt;/ul></description></item><item><title>Slay the Spire - Basemod</title><link>https://www.haashi.fr/fr/project/stsbasemod/</link><pubDate>Thu, 23 Jan 2020 12:21:08 +0100</pubDate><guid>https://www.haashi.fr/fr/project/stsbasemod/</guid><description>&lt;p>Ce mod communautaire facilite l'implémentation de nouvelles fonctionnalités et de nouveaux contenus. C'est devenu la méthode officielle pour modder le jeu.&lt;/p>
-&lt;p>J'ai notamment pu aider l'implémentation concernant les potions. Le projet à depuis évoluer et mon implémentation à surement dûe être retravaillée.&lt;/p>
+&lt;p>J'ai notamment pu aider l'implémentation concernant les potions. Le projet a depuis évolué et mon implémentation à surement dûe être retravaillée.&lt;/p>
 &lt;p>Technologies utilisées :&lt;/p>
 &lt;ul>
 &lt;li>Java&lt;/li>
@@ -19,10 +19,10 @@
 &lt;li>NodeJS&lt;/li>
 &lt;li>SocketIO&lt;/li>
 &lt;/ul></description></item><item><title>screepsmod-httpwelcome</title><link>https://www.haashi.fr/fr/project/screepsmod-httpwelcome/</link><pubDate>Thu, 23 Jan 2020 11:44:50 +0100</pubDate><guid>https://www.haashi.fr/fr/project/screepsmod-httpwelcome/</guid><description>&lt;p>Mod pour les serveurs privés du jeu de programmation &lt;a href="https://screeps.com">Screeps&lt;/a>.&lt;/p>
-&lt;p>Le mod permet de desservir des pages d'accueil lors d'une connection depuis un navigateur. Utile si vous voulez afficher plus d'informations que la page de base &amp;lsquo;Screeps is running on address:port&amp;rsquo;.&lt;/p>
+&lt;p>Le mod permet de desservir une page d'accueil lors d'une connection depuis un navigateur. Utile si vous voulez afficher plus d'informations que la page de base &amp;lsquo;Screeps is running on address:port&amp;rsquo;.&lt;/p>
 &lt;p>Le mod a été développé il y a 2 ans, je ne sais pas si il continue à fonctionner sur les nouvelles versions du jeu. Ecrit en NodeJS.&lt;/p></description></item><item><title>Remindme</title><link>https://www.haashi.fr/fr/project/remindme/</link><pubDate>Thu, 23 Jan 2020 11:09:12 +0100</pubDate><guid>https://www.haashi.fr/fr/project/remindme/</guid><description>&lt;p>Le projet est relativement simple. Le cas d'usage n'est pas très intéressant, beaucoup d'outils sont capables de le faire, et mieux.&lt;/p>
-&lt;p>Mon objectif était d'essayer un service Cloud and de tester par moi même le &amp;ldquo;serverless&amp;rdquo;. J'ai utilisé Google Cloud pour ce projet, je n'avais plus de crédits restants sur Amazon Web Services, mais j'aurai pu l'utiliser.&lt;/p>
-&lt;p>Le projet a duré environ 2 jours. Je ne ferais pas de posts à propos de ce projet, et j'ai supprimé le projet sur la plateforme Google Cloud 3 mois plus tard.&lt;/p>
+&lt;p>Mon objectif était d'essayer un service Cloud et de tester par moi même le &amp;ldquo;serverless&amp;rdquo;. J'ai utilisé Google Cloud pour ce projet, je n'avais plus de crédits restants sur Amazon Web Services, mais j'aurai pu l'utiliser.&lt;/p>
+&lt;p>Le projet a duré environ 2 jours. J'ai supprimé le projet sur la plateforme Google Cloud 3 mois plus tard.&lt;/p>
 &lt;p>Technologies utilisées pour ce projet :&lt;/p>
 &lt;ul>
 &lt;li>ReactJS&lt;/li>
