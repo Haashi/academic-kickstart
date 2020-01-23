@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>jeux | Baptiste "Haashi" Pontanier</title><link>https://www.haashi.fr/fr/tags/jeux/</link><atom:link href="https://www.haashi.fr/fr/tags/jeux/index.xml" rel="self" type="application/rss+xml"/><description>jeux</description><generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>fr-FR</language><copyright>Baptiste "Haashi" Pontanier © 2020</copyright><lastBuildDate>Thu, 23 Jan 2020 12:21:08 +0100</lastBuildDate><image><url>https://www.haashi.fr/img/logo.gif</url><title>jeux</title><link>https://www.haashi.fr/fr/tags/jeux/</link></image><item><title>Slay the Spire - Basemod</title><link>https://www.haashi.fr/fr/project/stsbasemod/</link><pubDate>Thu, 23 Jan 2020 12:21:08 +0100</pubDate><guid>https://www.haashi.fr/fr/project/stsbasemod/</guid><description>&lt;p>Ce mod communautaire facilite l'implémentation de nouvelles fonctionnalités et de nouveaux contenus. C'est devenu la méthode officielle pour modder le jeu.&lt;/p>
-&lt;p>J'ai notamment pu aider l'implémentation concernant les potions. Le projet a depuis évolué et mon implémentation à surement dûe être retravaillée.&lt;/p>
+&lt;p>J'ai notamment pu aider l'implémentation concernant les potions. Le projet a depuis évolué et mon implémentation à sûrement dûe être retravaillée.&lt;/p>
 &lt;p>Technologies utilisées :&lt;/p>
 &lt;ul>
 &lt;li>Java&lt;/li>
 &lt;li>Runtime Reflections&lt;/li>
 &lt;/ul></description></item><item><title>SnakeNode</title><link>https://www.haashi.fr/fr/project/snakenode/</link><pubDate>Thu, 23 Jan 2020 11:59:11 +0100</pubDate><guid>https://www.haashi.fr/fr/project/snakenode/</guid><description>&lt;p>Jeu du snake, en basant l'affichage sur cet exemple : &lt;a href="https://www.youtube.com/watch?v=AaGK-fj-BAM">https://www.youtube.com/watch?v=AaGK-fj-BAM&lt;/a> dans lequel j'ai implémenté le multijoueur.&lt;/p>
-&lt;p>Dans l'implémentation, le serveur de jeu est authoritaire et transmet l'intégralité de l'état du jeu aux clients.&lt;/p>
+&lt;p>Dans l'implémentation, le serveur de jeu est autoritaire et transmet l'intégralité de l'état du jeu aux clients.&lt;/p>
 &lt;p>Technologies utilisées pour ce projet :&lt;/p>
 &lt;ul>
 &lt;li>JavaScript&lt;/li>
