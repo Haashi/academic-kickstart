@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>web | Baptiste "Haashi" Pontanier</title><link>https://www.haashi.fr/fr/tags/web/</link><atom:link href="https://www.haashi.fr/fr/tags/web/index.xml" rel="self" type="application/rss+xml"/><description>web</description><generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>fr-FR</language><copyright>Baptiste "Haashi" Pontanier © 2020</copyright><lastBuildDate>Thu, 23 Jan 2020 11:09:12 +0100</lastBuildDate><image><url>https://www.haashi.fr/img/logo.gif</url><title>web</title><link>https://www.haashi.fr/fr/tags/web/</link></image><item><title>Remindme</title><link>https://www.haashi.fr/fr/project/remindme/</link><pubDate>Thu, 23 Jan 2020 11:09:12 +0100</pubDate><guid>https://www.haashi.fr/fr/project/remindme/</guid><description>&lt;p>Le projet est relativement simple. Le cas d'usage n'est pas très intéressant, beaucoup d'outils sont capables de le faire, et mieux.&lt;/p>
+&lt;p>Mon objectif était d'essayer un service Cloud and de tester par moi même le &amp;ldquo;serverless&amp;rdquo;. J'ai utilisé Google Cloud pour ce projet, je n'avais plus de crédits restants sur Amazon Web Services, mais j'aurai pu l'utiliser.&lt;/p>
+&lt;p>Le projet a duré environ 2 jours. Je ne ferais pas de posts à propos de ce projet, et j'ai supprimé le projet sur la plateforme Google Cloud 3 mois plus tard.&lt;/p>
+&lt;p>Technologies utilisées pour ce projet :&lt;/p>
+&lt;ul>
+&lt;li>ReactJS&lt;/li>
+&lt;li>TypeScript&lt;/li>
+&lt;li>Firebase&lt;/li>
+&lt;li>Google Cloud&lt;/li>
+&lt;/ul></description></item><item><title>Portfolio</title><link>https://www.haashi.fr/fr/project/portfolio/</link><pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate><guid>https://www.haashi.fr/fr/project/portfolio/</guid><description>&lt;p>Technologies utilisées pour ce projet :&lt;/p>
+&lt;ul>
+&lt;li>Hugo&lt;/li>
+&lt;li>Academic&lt;/li>
+&lt;li>Continuous Delivery&lt;/li>
+&lt;li>GitHub&lt;/li>
+&lt;/ul></description></item><item><title>Comment j'ai construit ce site Web</title><link>https://www.haashi.fr/fr/post/portfolio/</link><pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate><guid>https://www.haashi.fr/fr/post/portfolio/</guid><description>&lt;p>Je cherchais à retravailler mon site &amp;ldquo;portfolio&amp;rdquo;. J'ai crée mon ancien site en &lt;strong>ReactJS&lt;/strong> en utilisant &lt;strong>Bootstrap&lt;/strong> et &lt;strong>w3css&lt;/strong>. Le site était assez facile à maintenir, mais il avait quelques défauts. Contrairement au fonction d&amp;rsquo;&lt;strong>Hugo&lt;/strong>, le site n'allait pas générer des pages à partir de contenu statique. A chaque fois que je devais ajouté un élement (projets, expérience professionnelles&amp;hellip;), je devais créer le contenu, et l'inclure dans la page correspondante via un React Component. Vous pouvez consulter mon ancient site &lt;a href="https://wwwold.haashi.fr">ici&lt;/a>, et son coude source &lt;a href="https://github.com/Haashi/Portfolio">là&lt;/a>.&lt;/p>
+&lt;p>C'est cet aspect que j'apprécie dans &lt;strong>Hugo&lt;/strong>, il permet de facilement séparer le contenu et la façon dont on le présente. Grâce au système de templates que propose Hugo, vous indiquez exactement comment vous voulez que s'affiche votre contenu. Dans la plupart des cas, vous voulez créer un template pour chaque type de contenu que vous avez. Dans le cas de ce site, les deux principaux types de contenu sont les posts et les projets. Une fois que les templates sont crées, il suffit de créer le contenu via de simple fichier markdown. Le systeme de template peut accéder à des métadatas appelées &amp;ldquo;Front matter&amp;rdquo; d'un contenu. Ces métadatas sont déclarées au tout début d'un fichier de contenu. Exemple pour ce post :&lt;/p>
+&lt;pre>&lt;code>+++
+authors = []
+date = 2020-01-03T11:00:00Z
+draft = true
+featured = false
+projects = []
+subtitle = &amp;quot;Using Hugo, Academic, and Forestry&amp;quot;
+summary = &amp;quot;Learn how I built this website using Hugo and Academic, the little changes I made to match my old design, and how I keep posting from any devices using Forestry.&amp;quot;
+tags = []
+title = &amp;quot;How I built this website and I how I maintain it&amp;quot;
+[image] caption = &amp;quot;Caption&amp;quot;
+focal_point = &amp;quot;Smart&amp;quot;
+placement = 0
++++
+&lt;/code>&lt;/pre>
+&lt;p>Vous pouvez en apprendre plus sur le framework Hugo sur leur site web &lt;a href="https://gohugo.io">ici&lt;/a>. Après m'être rendu compte que Hugo convenait à mon besoin de faciliter la maintenance du site, je me suis plongé dans la documentation. Une des premières choses qu'ils expliquent, est le mécanisme de thème. Les thèmes sont une collection de template d'affichage. Connaissant mes faiblesses en design (et en CSS), c'était la cerise sur le gateau. J'ai cherché parmi les thèmes recencés sur le site d'Hugo avec différents critères en tête : un site portfolio, multilangage (français et anglais), possibilité de blog, design responsive. Un des themes qui correspond à tous ces critères est Academic. Qui plus est, Academic (consulter la démo) est capable de faire bien plus ! Il est capable de gérer un blog avec plusieurs utilisateurs, afficher une équipe, gérer des publications provenant d'autres sites, et même un section pour héberger des cours en ligne !&lt;/p>
+&lt;p>&lt;img src="https://www.haashi.fr/img/academic.PNG" alt="">&lt;/p>
+&lt;p>Pour débuter avec le thème, j'ai fork le projet academic-kickstart sur github. A partir de là, c'est très facile, il suffit de supprimer les fonctionnalités inutiles. Sur la page d'accueil, j'ai juste besoin d'afficher une rapide bio, mes expériences professionnelles, mes compétences et mes informations de contact (je n'ai pas réalisé de formulaire parce que je préfère être contacté par un autre média). J'ai édité le template d'expérience professionnelle pour inclure une liste de mots clés (pour afficher les technologies lié à l'expérience). Le theme Academic ne supporte pas cette fonctionnalité nativement. J'avais cette fonctionnalité sur mon ancient site, et je voulais la garder sur le nouveau. Grâce au mécanisme de templates d'Hugo (et notamment l'ordre de recherche de ceux-ci), il est facile de surcharger un template du theme par un template personnalisé. J'ai copié le code du template de l'expérience professionnelle et ai rajouté quelques lignes pour correspondre à mon besoin, en itérant sur la liste de mots clés renseignés dans les metadatas et les affichant en utilisant du CSS tout simple :&lt;/p>
+&lt;p>&lt;img src="https://www.haashi.fr/img/bulletlist.PNG" alt="">&lt;/p>
+&lt;p>A partir de là, j'ai crée tout le contenu, très souvent copié de l'ancien site. Une fois que tout était crée, il fallait déployer ce site et le rendre publique. Mon ancien site était hébergé sur les GitHub pages. Je n'ai eu aucun problème en 2 ans, j'ai donc décidé de continuer sur cette plateforme, mais cette fois si en améliorant le processus en utilisant les GitHub Actions. Grâce aux Actions, je peux dire à GitHub de build mon site en utilisant un docker Hugo et de le push sur la branche gh-pages qui est déservie sur mon domaine (la configuration d'un domaine pour les GitHub pages est en dehors du scope de ce post). Voici l'Action utilisé :&lt;/p>
+&lt;pre>&lt;code>name: github pages
+on:
+push:
+branches:
+- master
+jobs:
+build-deploy:
+runs-on: ubuntu-18.04
+steps:
+- uses: actions/checkout@v1
+with:
+submodules: true
+- name: Setup Hugo
+uses: peaceiris/actions-hugo@v2
+with:
+hugo-version: '0.61.0'
+extended: true
+- name: Build
+run: hugo --minify
+- name: Deploy
+uses: peaceiris/actions-gh-pages@v2
+env:
+ACTIONS_DEPLOY_KEY: ${{ secrets.DEPLOY_KEY }}
+PUBLISH_BRANCH: gh-pages
+PUBLISH_DIR: ./public
+&lt;/code>&lt;/pre>
+&lt;p>Relativement facile à lire, à chaque fois qu'il y a un push sur la branch master, l'action réalise un checkout (avec les submodules car les themes Hugo sont des submodules git), build le projet grâce a un docker hugo, puis deploie sur la page gh-branches (en utilisant un secret configuré sur le projet).&lt;/p>
+&lt;p>Grâce à ça, j'ai un système fonctionel de Continuous Delivery une fois que je push ou merge sur la branch master. Je peux maintenant me concentrer sur le développement de mon site sans m'inquiêter du déploiement.&lt;/p>
+&lt;p>&lt;img src="https://www.haashi.fr/img/githubactions.PNG" alt="">&lt;/p>
+&lt;p>Mais est-ce qu'on peut pas encore faire mieux ? Découvrez &lt;a href="https://forestry.io/" title="forestry">forestry&lt;/a>. Forestry est système de gestion de contenu fondé sur git qui fonctionne avec la plupart des frameworks de pages statiques dans la nature. C'est aussi très facile à déployer. Il suffit d'enregistrer son site, et d'ajouter une page static pour y accéder (généralement /admin). Une fois configuré, vous pouvez éditer n'importe quel contenu de votre site grâce à un éditeur richtext web, depuis n'importe quel appareil en accédant à votredomaine.fr/admin et en vous connectant avec votre identifiant forestry (ou oauth2).&lt;/p>
+&lt;p>Miantenant, vous pouvez éditer votre site depuis votre IDE/éditeur de texte favori, ou le faire depuis votre téléphone. Forestry sauvegardera vos changements en commitant directement dans le repository (enclenchant ainsi la CD configurée précédemment).&lt;/p></description></item></channel></rss>

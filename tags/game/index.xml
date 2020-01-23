@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>game | Baptiste "Haashi" Pontanier</title><link>https://www.haashi.fr/tags/game/</link><atom:link href="https://www.haashi.fr/tags/game/index.xml" rel="self" type="application/rss+xml"/><description>game</description><generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Baptiste "Haashi" Pontanier © 2020</copyright><lastBuildDate>Thu, 23 Jan 2020 12:21:08 +0100</lastBuildDate><image><url>https://www.haashi.fr/img/logo.gif</url><title>game</title><link>https://www.haashi.fr/tags/game/</link></image><item><title>Slay the Spire - Basemod</title><link>https://www.haashi.fr/project/stsbasemod/</link><pubDate>Thu, 23 Jan 2020 12:21:08 +0100</pubDate><guid>https://www.haashi.fr/project/stsbasemod/</guid><description>&lt;p>This community mod helps to create new features and contents to the game. It has become the supported way of modding the game.&lt;/p>
+&lt;p>I especially helped for the potions features. The project has since growed, and my codebase might have been reworked.&lt;/p>
+&lt;p>Technologies used :&lt;/p>
+&lt;ul>
+&lt;li>Java&lt;/li>
+&lt;li>Runtime Reflections&lt;/li>
+&lt;/ul></description></item><item><title>SnakeNode</title><link>https://www.haashi.fr/project/snakenode/</link><pubDate>Thu, 23 Jan 2020 11:59:11 +0100</pubDate><guid>https://www.haashi.fr/project/snakenode/</guid><description>&lt;p>Small snake game, using this implementation as a base : &lt;a href="https://www.youtube.com/watch?v=AaGK-fj-BAM">https://www.youtube.com/watch?v=AaGK-fj-BAM&lt;/a> on top of which I added multiplayer using NodeJS.&lt;/p>
+&lt;p>In the implementation, the server is authority and send the whole game state to the clients.&lt;/p>
+&lt;p>Technologies used for this project :&lt;/p>
+&lt;ul>
+&lt;li>JavaScript&lt;/li>
+&lt;li>NodeJS&lt;/li>
+&lt;li>SocketIO&lt;/li>
+&lt;/ul></description></item><item><title>screepsmod-httpwelcome</title><link>https://www.haashi.fr/project/screepsmod-httpwelcome/</link><pubDate>Thu, 23 Jan 2020 11:44:50 +0100</pubDate><guid>https://www.haashi.fr/project/screepsmod-httpwelcome/</guid><description>&lt;p>Mod for private server of the programming game &lt;a href="https://screeps.com">Screeps&lt;/a>.&lt;/p>
+&lt;p>The mod allows to serve static welcome page for browser connections. Useful if you wanna show more informations than the basic &amp;lsquo;Screeps is running on address:port&amp;rsquo;.&lt;/p>
+&lt;p>The mod was working 2 years ago, I do not know if it works anymore with newer versions. Written in NodeJS.&lt;/p></description></item></channel></rss>

@@ -1,1 +1,38 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Projects | Baptiste "Haashi" Pontanier</title><link>https://www.haashi.fr/project/</link><atom:link href="https://www.haashi.fr/project/index.xml" rel="self" type="application/rss+xml"/><description>Projects</description><generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Baptiste "Haashi" Pontanier © 2020</copyright><image><url>https://www.haashi.fr/img/logo.gif</url><title>Projects</title><link>https://www.haashi.fr/project/</link></image></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Projects | Baptiste "Haashi" Pontanier</title><link>https://www.haashi.fr/project/</link><atom:link href="https://www.haashi.fr/project/index.xml" rel="self" type="application/rss+xml"/><description>Projects</description><generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Baptiste "Haashi" Pontanier © 2020</copyright><lastBuildDate>Thu, 23 Jan 2020 14:12:15 +0100</lastBuildDate><image><url>https://www.haashi.fr/img/logo.gif</url><title>Projects</title><link>https://www.haashi.fr/project/</link></image><item><title>OTRS Ticket State History</title><link>https://www.haashi.fr/project/otrsticketstatehistory/</link><pubDate>Thu, 23 Jan 2020 14:12:15 +0100</pubDate><guid>https://www.haashi.fr/project/otrsticketstatehistory/</guid><description>&lt;p>This add-on shows a diagram to illustrate the time spent in all states of a ticket.&lt;/p>
+&lt;p>It was developped during my first internship 4 years ago.&lt;/p>
+&lt;p>Technologies used :&lt;/p>
+&lt;ul>
+&lt;li>Perl&lt;/li>
+&lt;li>HTML&lt;/li>
+&lt;li>CSS&lt;/li>
+&lt;/ul></description></item><item><title>Slay the Spire - Basemod</title><link>https://www.haashi.fr/project/stsbasemod/</link><pubDate>Thu, 23 Jan 2020 12:21:08 +0100</pubDate><guid>https://www.haashi.fr/project/stsbasemod/</guid><description>&lt;p>This community mod helps to create new features and contents to the game. It has become the supported way of modding the game.&lt;/p>
+&lt;p>I especially helped for the potions features. The project has since growed, and my codebase might have been reworked.&lt;/p>
+&lt;p>Technologies used :&lt;/p>
+&lt;ul>
+&lt;li>Java&lt;/li>
+&lt;li>Runtime Reflections&lt;/li>
+&lt;/ul></description></item><item><title>SnakeNode</title><link>https://www.haashi.fr/project/snakenode/</link><pubDate>Thu, 23 Jan 2020 11:59:11 +0100</pubDate><guid>https://www.haashi.fr/project/snakenode/</guid><description>&lt;p>Small snake game, using this implementation as a base : &lt;a href="https://www.youtube.com/watch?v=AaGK-fj-BAM">https://www.youtube.com/watch?v=AaGK-fj-BAM&lt;/a> on top of which I added multiplayer using NodeJS.&lt;/p>
+&lt;p>In the implementation, the server is authority and send the whole game state to the clients.&lt;/p>
+&lt;p>Technologies used for this project :&lt;/p>
+&lt;ul>
+&lt;li>JavaScript&lt;/li>
+&lt;li>NodeJS&lt;/li>
+&lt;li>SocketIO&lt;/li>
+&lt;/ul></description></item><item><title>screepsmod-httpwelcome</title><link>https://www.haashi.fr/project/screepsmod-httpwelcome/</link><pubDate>Thu, 23 Jan 2020 11:44:50 +0100</pubDate><guid>https://www.haashi.fr/project/screepsmod-httpwelcome/</guid><description>&lt;p>Mod for private server of the programming game &lt;a href="https://screeps.com">Screeps&lt;/a>.&lt;/p>
+&lt;p>The mod allows to serve static welcome page for browser connections. Useful if you wanna show more informations than the basic &amp;lsquo;Screeps is running on address:port&amp;rsquo;.&lt;/p>
+&lt;p>The mod was working 2 years ago, I do not know if it works anymore with newer versions. Written in NodeJS.&lt;/p></description></item><item><title>Remindme</title><link>https://www.haashi.fr/project/remindme/</link><pubDate>Thu, 23 Jan 2020 11:09:12 +0100</pubDate><guid>https://www.haashi.fr/project/remindme/</guid><description>&lt;p>This project was pretty straightforward. The use case is really poor, a lot of tools can do that, and better.&lt;/p>
+&lt;p>My goal was to try out a Cloud Provider and see by myself how &amp;ldquo;serverless&amp;rdquo; is relevant. I used Google Cloud for that project, I had no credits left on Amazon Web Services but could have used it as well.&lt;/p>
+&lt;p>Lasted about 2 days. I will not do a post about it, and I deleted the project on the Google Cloud plateform 3 months after.&lt;/p>
+&lt;p>Technologies used for this project :&lt;/p>
+&lt;ul>
+&lt;li>ReactJS&lt;/li>
+&lt;li>TypeScript&lt;/li>
+&lt;li>Firebase&lt;/li>
+&lt;li>Google Cloud&lt;/li>
+&lt;/ul></description></item><item><title>Portfolio</title><link>https://www.haashi.fr/project/portfolio/</link><pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate><guid>https://www.haashi.fr/project/portfolio/</guid><description>&lt;p>Technologies used for this project :&lt;/p>
+&lt;ul>
+&lt;li>Hugo&lt;/li>
+&lt;li>Academic&lt;/li>
+&lt;li>Continuous Delivery&lt;/li>
+&lt;li>GitHub&lt;/li>
+&lt;/ul></description></item></channel></rss>
