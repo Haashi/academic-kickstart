@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>autre | Baptiste "Haashi" Pontanier</title><link>https://www.haashi.fr/fr/tags/autre/</link><atom:link href="https://www.haashi.fr/fr/tags/autre/index.xml" rel="self" type="application/rss+xml"/><description>autre</description><generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>fr-FR</language><copyright>Baptiste "Haashi" Pontanier © 2020</copyright><lastBuildDate>Thu, 23 Jan 2020 14:12:15 +0100</lastBuildDate><image><url>https://www.haashi.fr/img/logo.gif</url><title>autre</title><link>https://www.haashi.fr/fr/tags/autre/</link></image><item><title>OTRS Ticket State History</title><link>https://www.haashi.fr/fr/project/otrsticketstatehistory/</link><pubDate>Thu, 23 Jan 2020 14:12:15 +0100</pubDate><guid>https://www.haashi.fr/fr/project/otrsticketstatehistory/</guid><description>&lt;p>Ce plug-in permet d'afficher un graphique pour illustrer le temps passé dans chaque état d'un ticket.&lt;/p>
-&lt;p>Il a été developpé lors de mon premier stage il y a 4 ans.&lt;/p>
+&lt;p>Il a été développé lors de mon premier stage il y a 4 ans.&lt;/p>
 &lt;p>Technologies utilisées :&lt;/p>
 &lt;ul>
 &lt;li>Perl&lt;/li>

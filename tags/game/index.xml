@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>game | Baptiste "Haashi" Pontanier</title><link>https://www.haashi.fr/tags/game/</link><atom:link href="https://www.haashi.fr/tags/game/index.xml" rel="self" type="application/rss+xml"/><description>game</description><generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Baptiste "Haashi" Pontanier © 2020</copyright><lastBuildDate>Thu, 23 Jan 2020 12:21:08 +0100</lastBuildDate><image><url>https://www.haashi.fr/img/logo.gif</url><title>game</title><link>https://www.haashi.fr/tags/game/</link></image><item><title>Slay the Spire - Basemod</title><link>https://www.haashi.fr/project/stsbasemod/</link><pubDate>Thu, 23 Jan 2020 12:21:08 +0100</pubDate><guid>https://www.haashi.fr/project/stsbasemod/</guid><description>&lt;p>This community mod helps to create new features and contents to the game. It has become the supported way of modding the game.&lt;/p>
-&lt;p>I especially helped for the potions features. The project has since growed, and my codebase might have been reworked.&lt;/p>
+&lt;p>I especially helped for the potions features. The project has since grown, and my codebase might have been reworked.&lt;/p>
 &lt;p>Technologies used :&lt;/p>
 &lt;ul>
 &lt;li>Java&lt;/li>
