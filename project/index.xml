@@ -1,4 +1,18 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Projects | Baptiste "Haashi" Pontanier</title><link>https://www.haashi.fr/project/</link><atom:link href="https://www.haashi.fr/project/index.xml" rel="self" type="application/rss+xml"/><description>Projects</description><generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Baptiste "Haashi" Pontanier © 2020</copyright><lastBuildDate>Thu, 23 Jan 2020 14:12:15 +0100</lastBuildDate><image><url>https://www.haashi.fr/img/logo.gif</url><title>Projects</title><link>https://www.haashi.fr/project/</link></image><item><title>OTRS Ticket State History</title><link>https://www.haashi.fr/project/otrsticketstatehistory/</link><pubDate>Thu, 23 Jan 2020 14:12:15 +0100</pubDate><guid>https://www.haashi.fr/project/otrsticketstatehistory/</guid><description>&lt;p>This add-on shows a diagram to illustrate the time spent in all states of a ticket.&lt;/p>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Projects | Baptiste "Haashi" Pontanier</title><link>https://www.haashi.fr/project/</link><atom:link href="https://www.haashi.fr/project/index.xml" rel="self" type="application/rss+xml"/><description>Projects</description><generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Baptiste "Haashi" Pontanier © 2020</copyright><lastBuildDate>Sun, 18 Oct 2020 12:00:08 +0100</lastBuildDate><image><url>https://www.haashi.fr/img/logo.gif</url><title>Projects</title><link>https://www.haashi.fr/project/</link></image><item><title>Codingame Contests</title><link>https://www.haashi.fr/project/codingame/</link><pubDate>Sun, 18 Oct 2020 12:00:08 +0100</pubDate><guid>https://www.haashi.fr/project/codingame/</guid><description>&lt;p>&lt;a href="https://www.codingame.com">Codingame&lt;/a> website hosts coding contests every 6 months. These contests requires you to write artificial intelligence to play extended versions of famous known games (Pacman, tic-tac-toe&amp;hellip;). Your code is then played against all other players code and is ranked based on a trueskill algorithm.&lt;/p>
+&lt;p>As of today, I joined 3 contests and trained on many past contests.
+My recent rankings are :&lt;/p>
+&lt;ul>
+&lt;li>Spring Challenge 2020 (Pacman) 541st / 4955 players&lt;/li>
+&lt;li>Ocean of Code 173rd / 2279 players&lt;/li>
+&lt;li>Unleash the Geek 230th / 2162 players&lt;/li>
+&lt;/ul>
+&lt;p>I solve most contests using famous artifical intelligence algorithms, such as Monte Carlo Tree Search, Genetic algortihms, pathfinding algorithms.&lt;/p>
+&lt;p>Every contests is a blast and I'm looking forward to join another. You can have a look at my &lt;a href="https://www.codingame.com/profile/eb9859d6b38622dfb9e50fa85da98e2f1945112">profile&lt;/a> to see what type of problems I love solving.&lt;/p>
+&lt;p>Technologies used :&lt;/p>
+&lt;ul>
+&lt;li>Golang&lt;/li>
+&lt;li>Javascript&lt;/li>
+&lt;/ul></description></item><item><title>OTRS Ticket State History</title><link>https://www.haashi.fr/project/otrsticketstatehistory/</link><pubDate>Thu, 23 Jan 2020 14:12:15 +0100</pubDate><guid>https://www.haashi.fr/project/otrsticketstatehistory/</guid><description>&lt;p>This add-on shows a diagram to illustrate the time spent in all states of a ticket.&lt;/p>
 &lt;p>It was developed during my first internship 4 years ago.&lt;/p>
 &lt;p>Technologies used :&lt;/p>
 &lt;ul>

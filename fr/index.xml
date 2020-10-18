@@ -1,4 +1,18 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Baptiste "Haashi" Pontanier</title><link>https://www.haashi.fr/fr/</link><atom:link href="https://www.haashi.fr/fr/index.xml" rel="self" type="application/rss+xml"/><description>Baptiste "Haashi" Pontanier</description><generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>fr-FR</language><copyright>Baptiste "Haashi" Pontanier © 2020</copyright><lastBuildDate>Thu, 23 Jan 2020 14:12:15 +0100</lastBuildDate><image><url>https://www.haashi.fr/img/logo.gif</url><title>Baptiste "Haashi" Pontanier</title><link>https://www.haashi.fr/fr/</link></image><item><title>OTRS Ticket State History</title><link>https://www.haashi.fr/fr/project/otrsticketstatehistory/</link><pubDate>Thu, 23 Jan 2020 14:12:15 +0100</pubDate><guid>https://www.haashi.fr/fr/project/otrsticketstatehistory/</guid><description>&lt;p>Ce plug-in permet d'afficher un graphique pour illustrer le temps passé dans chaque état d'un ticket.&lt;/p>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Baptiste "Haashi" Pontanier</title><link>https://www.haashi.fr/fr/</link><atom:link href="https://www.haashi.fr/fr/index.xml" rel="self" type="application/rss+xml"/><description>Baptiste "Haashi" Pontanier</description><generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>fr-FR</language><copyright>Baptiste "Haashi" Pontanier © 2020</copyright><lastBuildDate>Sun, 18 Oct 2020 12:00:08 +0100</lastBuildDate><image><url>https://www.haashi.fr/img/logo.gif</url><title>Baptiste "Haashi" Pontanier</title><link>https://www.haashi.fr/fr/</link></image><item><title>Codingame Challenge</title><link>https://www.haashi.fr/fr/project/codingame/</link><pubDate>Sun, 18 Oct 2020 12:00:08 +0100</pubDate><guid>https://www.haashi.fr/fr/project/codingame/</guid><description>&lt;p>Le site &lt;a href="https://www.codingame.com">Codingame&lt;/a> organise des hackathons tous les 6 mois. Ces challenges vous demandent de développer une intelligence artificielle pour jouer à des versions étendues de jeux classiques (Pacman, morpion&amp;hellip;). Le code développé joue ensuite contre les codes des autres participants et est classé selon un algorithme trueskill.&lt;/p>
+&lt;p>A ce jour, j'ai participé à 3 challenges et me suis entrainer sur les précédents.
+Mes classements récents :&lt;/p>
+&lt;ul>
+&lt;li>Spring Challenge 2020 (Pacman) 541ème / 4955 joueurs&lt;/li>
+&lt;li>Ocean of Code 173ème / 2279 joueurs&lt;/li>
+&lt;li>Unleash the Geek 230ème / 2162 joueurs&lt;/li>
+&lt;/ul>
+&lt;p>Sur la plupart des challenges, j'utilise des algorithmes d'intelligence artificielle connus, comme le Monte Carlo Tree Search, des algorithmes génétiques ou des algorithmes de pathfinding.&lt;/p>
+&lt;p>Chaque challenge est fantastique et j'attends avec impatience les prochains. Mon &lt;a href="https://www.codingame.com/profile/eb9859d6b38622dfb9e50fa85da98e2f1945112">profil&lt;/a> relate des types de problèmes que j'apprécie résoudre.&lt;/p>
+&lt;p>Technologies utilisées :&lt;/p>
+&lt;ul>
+&lt;li>Golang&lt;/li>
+&lt;li>Javascript&lt;/li>
+&lt;/ul></description></item><item><title>OTRS Ticket State History</title><link>https://www.haashi.fr/fr/project/otrsticketstatehistory/</link><pubDate>Thu, 23 Jan 2020 14:12:15 +0100</pubDate><guid>https://www.haashi.fr/fr/project/otrsticketstatehistory/</guid><description>&lt;p>Ce plug-in permet d'afficher un graphique pour illustrer le temps passé dans chaque état d'un ticket.&lt;/p>
 &lt;p>Il a été développé lors de mon premier stage il y a 4 ans.&lt;/p>
 &lt;p>Technologies utilisées :&lt;/p>
 &lt;ul>
