@@ -12,9 +12,6 @@ fr:
       - name: Projets
         url: '#projects'
         weight: 20
-      - name: Posts
-        url: post
-        weight: 30
       - name: Contact
         url: '#contact'
         weight: 40

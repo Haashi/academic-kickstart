@@ -44,6 +44,6 @@ Je m'appelle Baptiste Pontanier, et je suis ingénieur en informatique. J'aime �
 
 Depuis maintenant 4 ans, j'oeuvre dans ce domaine et ne compte pas m'arrêter. Je n'ai pas de domaine de prédilection, j'essaye d'être polyvalent au maximum.
 
-À travers ce site, je tiens à partager divers articles et projets que j'entame (en espérant les finir).
+À travers ce site, je tiens à partager divers projets que je réalise (en espérant les finir).
 
 Je ne suis **pas à l'écoute du marché en ce moment**, mais vous pouvez toujours me contacter ou télécharger un CV hors-ligne.
