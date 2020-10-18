@@ -18,7 +18,7 @@ content:
   - name: Autre
     tag: autre
 design:
-  columns: '2'
+  columns: '1'
   view: 3
   flip_alt_rows: false
   background: {}
