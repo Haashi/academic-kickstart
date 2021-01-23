@@ -3,16 +3,17 @@ name: Baptiste Pontanier
 authors:
 - haashi
 superuser: true
-role: Ingénieur DevOps
+role: Ingénieur Développement
 organizations:
-- name: Ciril GROUP
-  url: https://www.cirilgroup.com/fr/
-bio: Ingénieur DevOps chez Ciril GROUP. J'essaye de partager au maximum mes projets
+- name: Esker
+  url: https://www.esker.com/
+bio: Ingénieur Developpement chez Esker. J'essaye de partager au maximum mes projets
   IT personnels, qu'ils concernent la programmation ou l'infrastructure.
 interests:
 - Jeux vidéo
 - Nouvelles technologies
 - Bien manger
+- Programmation compétitive
 education:
   courses:
   - course: Diplôme d'ingénieur en informatique, réseaux et cybersécurité

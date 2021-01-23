@@ -63,12 +63,19 @@ experience:
     company_url: 'https://www.cirilgroup.com/'
     location: 69603 Villeurbanne
     date_start: '2019-07-01'
-    date_end: ''
-    description:
+    date_end: '2020-11-30'
+    description: Développement d'une plateforme de création d'environnement à la demande. Automatisation de tests d'installation des produits pour différents systèmes d'exploitation. Elaboration d'un plan réseau et mise en place d'outils pour sa mise en oeuvre.
     keywords:
       - Docker
       - TypeScript
       - VueJS
       - Vmware
-
+  - title: Ingénieur Développement
+    company: Esker
+    company_url: 'https://www.esker.fr/'
+    location: 69100 Villeurbanne
+    date_start: '2021-01-04'
+    date_end: ''
+    description:
+    keywords:
 ---

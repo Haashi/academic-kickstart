@@ -70,11 +70,19 @@ experience:
     company_url: 'https://www.cirilgroup.com/'
     location: 69603 Villeurbanne
     date_start: '2019-07-01'
-    date_end: ''
-    description: 
+    date_end: '2020-11-30'
+    description: Development of a platform for on-demand environment creation. Automatization of installation tests of our products on differents operating systems. Design of a new network plan, and deployment of tools to use it.
     keywords:
       - Docker
       - TypeScript
       - VueJS
       - Vmware
+  - title: Development Engineer
+    company: Esker
+    company_url: 'https://www.esker.com/'
+    location: 69100 Villeurbanne
+    date_start: '2021-01-04'
+    date_end: ''
+    description: 
+    keywords:
 ---
