@@ -3,16 +3,17 @@ name: Baptiste Pontanier
 authors:
 - haashi
 superuser: true
-role: DevOps Engineer
+role: Development Engineer
 organizations:
-- name: Ciril GROUP
-  url: https://www.cirilgroup.com/fr/
-bio: French DevOps Engineer at Ciril GROUP. I try to share the most out of my personal
+- name: Esker
+  url: https://www.esker.com/
+bio: French Development Engineer at Esker. I try to share the most out of my personal
   IT projects, from programming to infrastructure.
 interests:
 - Video Games
 - New technologies
 - Good food
+- Competitive programming
 education:
   courses:
   - course: IT engineering degree
