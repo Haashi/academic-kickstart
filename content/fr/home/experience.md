@@ -76,6 +76,10 @@ experience:
     location: 69100 Villeurbanne
     date_start: '2021-01-04'
     date_end: ''
-    description:
+    description: Développement de fonctionnalités sur l'envoi de facture et le paiement (O2C). Tests automatisés web avec Selenium.
     keywords:
+     - Javascript/Typescript
+     - C#
+     - EDI
+     - Selenium
 ---

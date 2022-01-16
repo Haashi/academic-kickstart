@@ -83,6 +83,10 @@ experience:
     location: 69100 Villeurbanne
     date_start: '2021-01-04'
     date_end: ''
-    description: 
+    description: Development of features on invoice delivery and payments (O2C). Automated web tests through Selenium.  
     keywords:
+     - Javascript/TypeScript
+     - C#
+     - EDI
+     - Selenium
 ---
