@@ -43,7 +43,7 @@ draft: false
 ---
 My name is Baptiste Pontanier, and I am a French Engineer in Information Technologies. I really love IT, and the wide range of diverse projects you can work on. 
 
-It has been 4 years now I work in IT, and I don't plan to stop anytime soon. I don't have a specific area of expertise, I try to keep a wide range of skills.
+It has been 5 years now I work in IT, and I don't plan to stop anytime soon. I don't have a specific area of expertise, I try to keep a wide range of skills.
 
 With this website, I plan to share some projects I begin to work on (and hopefully when I finish them).
 
