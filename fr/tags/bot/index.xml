@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>bot | Baptiste "Haashi" Pontanier</title><link>https://www.haashi.fr/fr/tags/bot/</link><atom:link href="https://www.haashi.fr/fr/tags/bot/index.xml" rel="self" type="application/rss+xml"/><description>bot</description><generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>fr-FR</language><copyright>Baptiste "Haashi" Pontanier © 2022</copyright><lastBuildDate>Tue, 22 Nov 2022 12:00:08 +0100</lastBuildDate><image><url>https://www.haashi.fr/img/logo.gif</url><title>bot</title><link>https://www.haashi.fr/fr/tags/bot/</link></image><item><title>Omega strikers bot</title><link>https://www.haashi.fr/fr/project/omegastrikersbot/</link><pubDate>Tue, 22 Nov 2022 12:00:08 +0100</pubDate><guid>https://www.haashi.fr/fr/project/omegastrikersbot/</guid><description>&lt;p>Bot pour une communauté du jeu Omega Strikers disponible sur steam.
+Il permet de jouer des matches entre joueurs de la communauté.&lt;/p>
+&lt;p>Technologies utilisées :&lt;/p>
+&lt;ul>
+&lt;li>Golang&lt;/li>
+&lt;li>Discord&lt;/li>
+&lt;/ul></description></item></channel></rss>
